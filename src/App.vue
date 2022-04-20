@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <HelloWorld msg="WELCOME TO CLOUD LEAGUE" text="We are focusing on WEB3"/>
 </template>
 
 <script>
